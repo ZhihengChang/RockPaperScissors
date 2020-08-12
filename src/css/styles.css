@@ -1,0 +1,36 @@
+.scoreBoard{
+    text-align: right;
+}
+
+.scoreBoard p {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.scoreBoard .text {
+    font-weight: bold;
+}
+
+.scoreBoard .score{
+    margin-right: 10px;
+}
+
+h2{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.btns{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.btn{
+    margin-left: 10px;
+}
+
+
