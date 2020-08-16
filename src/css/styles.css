@@ -33,4 +33,9 @@ img{
     margin-left: 10px;
 }
 
+#alert {
+    text-align: center;
+    font-weight: bold;
+}
+
 
